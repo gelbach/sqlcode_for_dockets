@@ -1,0 +1,2 @@
+* Need to add index on caseheader.fullcase_id
+* Need to fix fullcase.fullcase_text, which is missing court right now

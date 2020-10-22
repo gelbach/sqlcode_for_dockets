@@ -1,0 +1,1236 @@
+setupLoggerAndReturn.py[setupLoggerAndReturn/19][INFO] at 2017-12-27 15:39:51,736:
+	Starting inspect-party-block.py.log.
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:39:58,794:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:08,642:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:17,772:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:23,867:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:30,153:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:38,233:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:49,586:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:40:54,848:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:01,280:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:04,398:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:08,480:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:13,764:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:22,930:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:31,650:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:38,647:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:41:50,038:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:42:04,442:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:42:16,002:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:42:25,135:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:42:38,408:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:42:54,897:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:43:07,206:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:43:24,436:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:43:36,819:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:43:54,949:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:44:05,919:
+	Starting /data2/dockets/NFEDDIST2005Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:44:21,168:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:44:35,428:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:44:50,749:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:45:01,325:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:45:11,394:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:45:19,921:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:45:33,240:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:45:44,627:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:46:03,724:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:46:17,751:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:46:37,811:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:46:45,475:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:47:01,766:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:47:21,135:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:47:44,457:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:48:01,348:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:48:15,965:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:48:29,256:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:48:43,712:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:49:01,979:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:49:15,303:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:49:23,547:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:49:41,844:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:49:52,513:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:50:09,560:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:50:25,335:
+	Starting /data2/dockets/NFEDDIST2006Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:50:38,895:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:50:52,058:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:51:04,951:
+	Starting /data2/dockets/NFEDDIST2007Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 15:51:05,642:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV01Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:51:31,721:
+	Starting /data2/dockets/NFEDDIST2008Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:51:49,241:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:52:08,590:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:52:22,033:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:52:39,817:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:52:43,378:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:53:02,389:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:53:20,568:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:53:39,310:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:53:56,209:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:54:14,341:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:54:31,273:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:54:50,898:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:55:10,629:
+	Starting /data2/dockets/NFEDDIST2009Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:55:24,754:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:55:38,602:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:55:51,560:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:56:04,877:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:56:18,518:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:56:34,430:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:56:44,558:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:56:48,199:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:57:03,578:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:57:16,345:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:57:27,844:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:57:44,202:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:57:58,591:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:58:07,821:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:58:20,612:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:58:34,876:
+	Starting /data2/dockets/NFEDDIST2010Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:58:47,043:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:59:02,581:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:59:16,430:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:59:27,943:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:59:39,986:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:59:47,988:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 15:59:57,369:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:00:08,389:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:00:30,718:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:00:42,797:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:00:58,100:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:01:09,807:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:01:19,286:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:01:30,489:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:01:39,921:
+	Starting /data2/dockets/NFEDDIST2011Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:01:54,641:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+17.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:02:24,896:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:02:49,039:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:03:09,596:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:03:32,428:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+18.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:03:48,033:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:04:08,546:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+19.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:04:27,339:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:04:46,534:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:05:03,598:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:05:19,413:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+20.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:05:35,504:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:05:52,429:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+21.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:06:08,207:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:06:27,634:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:06:43,276:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+22.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:06:58,568:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+23.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:07:14,630:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+24.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:07:20,040:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+25.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:07:38,995:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:08:00,275:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:08:23,217:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:08:42,434:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:09:02,841:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:09:20,808:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:09:38,082:
+	Starting /data2/dockets/NFEDDIST2012JanuaryThroughJune.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:09:57,398:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:10:16,173:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:10:29,130:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+12_1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:10:51,501:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+12_2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:11:09,008:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:11:27,199:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:11:46,851:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:12:06,544:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:12:26,732:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+17.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:12:50,551:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+18.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:13:13,890:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+19.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:13:41,178:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:14:00,674:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+20.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:14:02,922:
+	
+Bad parse for file /data2/dockets/NFEDDIST2013Yale.Extracts+21.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:14:19,535:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+22.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:14:42,674:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+23.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:15:01,877:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+24.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:15:06,788:
+	
+Bad parse for file /data2/dockets/NFEDDIST2013Yale.Extracts+25.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:15:25,462:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+26.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:15:41,064:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+27.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:16:00,236:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:16:21,517:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:16:43,514:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:17:04,779:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:17:24,858:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:17:44,688:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:18:03,648:
+	Starting /data2/dockets/NFEDDIST2013Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:18:24,600:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:18:58,235:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:19:23,421:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:19:40,986:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:20:00,668:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:20:20,068:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:21:30,651:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:21:50,624:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:22:10,382:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+17.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:22:28,591:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+18.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:22:47,020:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+19.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:23:10,764:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:23:13,070:
+	
+Bad parse for file /data2/dockets/NFEDDIST2013eoyYale.Extracts+20.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:23:27,196:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+21.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:23:46,724:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:24:06,873:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:24:28,516:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:24:50,662:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:25:13,687:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:25:30,140:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:25:51,017:
+	Starting /data2/dockets/NFEDDIST2013eoyYale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:26:12,352:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:26:29,879:
+	
+Bad parse for file /data2/dockets/NFEDDIST2014Yale.Extracts+10.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:26:49,146:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:27:05,235:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:27:20,490:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:27:22,672:
+	
+Bad parse for file /data2/dockets/NFEDDIST2014Yale.Extracts+14.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:27:42,727:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:28:02,609:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:28:14,421:
+	
+Bad parse for file /data2/dockets/NFEDDIST2014Yale.Extracts+17.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:28:34,470:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+18.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:28:57,217:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+19.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:29:19,759:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:29:27,982:
+	
+Bad parse for file /data2/dockets/NFEDDIST2014Yale.Extracts+20.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:29:50,010:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+21.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:29:59,874:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+22.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:30:19,706:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:30:38,643:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:30:57,146:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:31:15,499:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:31:34,016:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:31:52,452:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:32:09,511:
+	Starting /data2/dockets/NFEDDIST2014Yale.Extracts+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:25,279:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:26,327:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV01Dec2014Part1Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:27,245:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:27,997:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV01Dec2014Part1Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:28,796:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+10.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:32:44,812:
+	Starting /data2/dockets/NFEDDISTCV01Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:46,696:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+11.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:32:50,465:
+	Starting /data2/dockets/NFEDDISTCV02Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:32:52,541:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+12.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:33:22,673:
+	Starting /data2/dockets/NFEDDISTCV02Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:23,458:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+13.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:39,795:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV02Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:40,722:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+14.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:40,938:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV02Dec2014Part2Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:41,270:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+15.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:44,759:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:33:59,134:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+6.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:02,813:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+10.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:08,486:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+7.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:09,381:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+11.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:12,281:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+8.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:24,179:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+12.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:27,631:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+9.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:32,978:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+13.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:34,853:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:42,212:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+14.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:43,569:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:57,376:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:34:58,436:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:01,548:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:02,276:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+4.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:04,247:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+4.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:05,282:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+5.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:10,559:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV03Dec2014Part1Yale.Extracts+5.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:11,641:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+6.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:12,363:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+7.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:13,721:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+8.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:14,622:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part1Yale.Extracts+9.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:17,952:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:24,906:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:38,764:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part2Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:40,842:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part2Yale.Extracts+4.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:43,931:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part2Yale.Extracts+5.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:47,951:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV04Dec2014Part2Yale.Extracts+6.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:35:51,086:
+	Starting /data2/dockets/NFEDDISTCV05Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:35:58,334:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV05Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:36:21,201:
+	Starting /data2/dockets/NFEDDISTCV05Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:36:41,315:
+	Starting /data2/dockets/NFEDDISTCV05Dec2014Part2Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:36:43,571:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV06Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:36:44,060:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV06Dec2014Part1Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:36:44,798:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV06Dec2014Part1Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:36:45,296:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV06Dec2014Part1Yale.Extracts+4.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:36:45,870:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV06Dec2014Part1Yale.Extracts+5.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:36:46,504:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV06Dec2014Part1Yale.Extracts+6.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:37:03,045:
+	Starting /data2/dockets/NFEDDISTCV06Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:37:15,834:
+	Starting /data2/dockets/NFEDDISTCV06Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:37:17,626:
+	Starting /data2/dockets/NFEDDISTCV07Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:37:22,404:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV07Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:37:32,165:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV07Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:37:44,597:
+	Starting /data2/dockets/NFEDDISTCV07Dec2014Part2Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:37:55,847:
+	Starting /data2/dockets/NFEDDISTCV07Dec2014Part2Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:38:02,289:
+	Starting /data2/dockets/NFEDDISTCV07Dec2014Part2Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:38:07,274:
+	Starting /data2/dockets/NFEDDISTCV08Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:13,293:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV08Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:38:14,665:
+	Starting /data2/dockets/NFEDDISTCV08Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:15,917:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:17,761:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part1Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:19,862:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part1Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:21,658:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part1Yale.Extracts+4.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:22,519:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part1Yale.Extracts+5.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:30,016:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part1Yale.Extracts+6.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:38:34,919:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:38:48,490:
+	Starting /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:39:02,161:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+3.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:39:14,921:
+	Starting /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:39:29,532:
+	Starting /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:39:43,484:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+6.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:39:51,639:
+	Starting /data2/dockets/NFEDDISTCV09Dec2014Part2Yale.Extracts+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:39:54,599:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV10Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:39:56,222:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV10Dec2014Part1Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:40:04,624:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV10Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:40:05,673:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV10Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:06,220:
+	Starting /data2/dockets/NFEDDISTCV11Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:40:08,625:
+	
+Bad parse for file /data2/dockets/NFEDDISTCV11Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:22,715:
+	Starting /data2/dockets/NFEDDISTCV11Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:26,925:
+	Starting /data2/dockets/NFEDDISTCV11Dec2014Part2Yale.Extracts+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:27,810:
+	Starting /data2/dockets/NFEDDISTCV12Dec2014Part1Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:40,399:
+	Starting /data2/dockets/NFEDDISTCV12Dec2014Part2Yale.Extracts+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:42,982:
+	Starting /data2/dockets/NFEDDISTCV12Dec2014Part2Yale.Extracts+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:40:57,924:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:41:14,417:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:41:31,091:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:41:47,238:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:42:01,430:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:42:07,519:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:42:25,569:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:42:38,789:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:42:55,891:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+17.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:43:13,722:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+18.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:43:33,182:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+19.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:43:53,749:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:44:09,222:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+20.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:44:28,268:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+21.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:44:44,828:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+22.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:45:00,420:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+23.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:45:16,073:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+24.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:45:30,025:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+25.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:45:45,142:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+26.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:46:01,025:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+27.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:46:07,059:
+	
+Bad parse for file /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+28.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:46:19,120:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+29.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:46:33,766:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:46:43,385:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+30.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:46:57,557:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+31.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:47:11,388:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+32.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:47:13,282:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+33.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:47:27,134:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:47:43,021:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:48:04,395:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:48:21,128:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:48:35,158:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:48:49,623:
+	Starting /data2/dockets/NFEDDIST_JulySept2012Yale.Extract+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:49:08,478:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+1.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:49:25,889:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+10.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:49:43,199:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+11.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:49:58,897:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+12.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:50:15,144:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+13.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:50:35,105:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+14.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:50:55,390:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+15.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:51:11,835:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+16.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:51:30,987:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+17.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:51:47,997:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+18.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:52:04,520:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+19.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:52:27,230:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+2.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:52:45,939:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+20.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:53:02,562:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+21.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:53:21,609:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+22.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:53:40,218:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+23.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:53:59,385:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+24.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/82][INFO] at 2017-12-27 16:54:15,843:
+	
+Bad parse for file /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+25.nxo_extracted_out.xml
+
+
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:54:33,701:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+26.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:54:52,328:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+27.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:55:11,041:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+28.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:55:31,356:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+29.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:55:51,161:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+3.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:56:07,671:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+30.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:56:17,108:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+31.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:56:33,209:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+32.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:56:49,577:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+33.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:56:57,512:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+34.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:57:12,346:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+4.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:57:29,568:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+5.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:57:49,326:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+6.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:58:08,766:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+7.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:58:26,782:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+8.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:58:43,136:
+	Starting /data2/dockets/NFEDDIST_OctDec2012Yale.Extract+9.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:58:49,528:
+	Starting /data2/dockets/Remaining2005guids_N_DFEDDIST00_20120411.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:58:55,234:
+	Starting /data2/dockets/Remaining2006guids_N_DFEDDIST00_201204000000.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:58:59,063:
+	Starting /data2/dockets/Remaining2007guids_N_DFEDDIST00_201204000000.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:59:00,873:
+	Starting /data2/dockets/Remaining2008guids_N_DFEDDIST00_201204000000.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:59:02,789:
+	Starting /data2/dockets/Remaining2009guids_N_DFEDDIST00_20120406124739.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:59:04,241:
+	Starting /data2/dockets/Remaining2010_guids_N_DFEDDIST00_20120405100601.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/80][INFO] at 2017-12-27 16:59:05,108:
+	Starting /data2/dockets/Remaining2011guids_N_DFEDDIST00_20120406101705.nxo_extracted_out.xml
+<cyfunction ProcessingInstruction at 0x7efe81337290>,defendant.party,other.party,plaintiff.party
+inspect-party-block.py[<module>/83][INFO] at 2017-12-27 16:59:05,186:
+	OrderedSet(['plaintiff.party', 'party.type', 'party.name.block', 'label', 'party.name', 'party.attorney.block', 'attorney.name', 'attorney.email', 'firm.name.block', 'firm.name', 'firm.address.block', 'street', 'city', 'state', 'zip', 'firm.phone.block', 'firm.phone', 'firm.fax.block', 'firm.fax', 'attorney.terminated.block', 'attorney.terminated', 'defendant.party', 'party.terminated.block', 'party.terminated', 'firm.address.combined', 'attorney.status', 'other.party', 'attorney.cor', 'attorney.id', <cyfunction ProcessingInstruction at 0x7efe81337290>, 'party.aka.block', 'party.aka', 'attorney.phone', 'attorney.fax', 'party.phone.block', 'party.phone', 'party.additional.block', 'image.block', 'image.link', 'attorney.fts'])

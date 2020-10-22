@@ -1,0 +1,15 @@
+#primarytitle,filingdate,closeddate,natureofsuit,natureofsuitcode,noticeofremovalflag,
+#dateentry,entrynumber,entrytext
+
+import sqlite3
+import os
+
+db = sqlite3.connect('/data2/dockets/sqlite/pydockets.db')
+c = db.cursor()
+
+
+
+
+db.commit()
+db.close()
+

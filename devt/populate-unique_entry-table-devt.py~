@@ -1,0 +1,95 @@
+
+from datetime import datetime as dt
+import os
+import traceback
+import re
+import csv
+from lxml import etree as ET
+import sqlite3
+
+import sys
+sys.path.append('/data2/dockets/utilities')
+
+#import logging
+from setupLogging import *
+
+from xmlFiles import *
+from CaseLevelFunctions import *
+from GeneralFunctions import *
+from docketsFileReader_new import *
+
+import numpy as np
+import pandas as pd
+
+THISFILE = 'populate-unique_entry-table-devt'
+mylogger = setupLogging(THISFILE)
+
+def dict_factory(cursor, row):
+    d = {}
+    for idx, col in enumerate(cursor.description):
+        d[col[0]] = row[idx]
+    return d
+
+def connectToDB(filename):
+    db = sqlite3.connect(filename)
+#    db.row_factory = sqlite3.Row
+    db.row_factory = dict_factory
+    return db
+
+class fullcase(object):
+    def queryDbOn(self,querystring,queryTuple):
+        try:
+            self.cursor.execute(querystring, queryTuple)
+        except Exception as err:
+            print('Query Failed: %s\nError: %s' % (querystring, str(err)))
+
+    def getCaseheaderRows(self,fullcase_id):
+        self.queryDbOn(
+            '''SELECT * FROM caseheader WHERE fullcase_id = ?''',
+            (fullcase_id,)
+        )
+        return self.cursor.fetchall()
+
+    def getEntryRowsByCaseheaderRowlist(self,fullcase_id):
+        caseheaderRowList = self.getCaseheaderRows(fullcase_id)
+        entryRowDict = dict()
+        for rowdict in caseheaderRowList:
+            caseheader_id = rowdict["id"]
+            querystring = '''SELECT * FROM entry WHERE caseheader_id = ?'''
+            self.queryDbOn(querystring,(caseheader_id,))
+            entryRowDict[caseheader_id] = list()
+            for erowdict in self.cursor.fetchall():
+                entryRowDict[caseheader_id].append(erowdict)
+        return entryRowDict
+
+    def __init__(self,fullcase_id,db):
+        self.id = fullcase_id
+        self.db = db
+        self.cursor = db.cursor()        
+
+db = connectToDB('/data2/dockets/sqlite/pydockets-devt.db')
+mycase = fullcase(36046,db)
+mydict = mycase.getEntryRowsByCaseheaderRowlist(36046) # mycase.getCaseheaderRows(36046):
+
+listOfEntries = dict()
+listOfEntries['36046'] = dict()
+listOfCaseheaderIDs = mydict.keys()
+for caseheader_id in listOfCaseheaderIDs:
+    localDict = dict()
+    for entryDict in mydict[caseheader_id]:
+        localDict.update({entryDict['entrynumber'] : entryDict['entrytext']})
+        #get latest date here
+    listOfEntries['36046'][caseheader_id] = localDict
+    #add latest date to listOfEntries[][] here
+print listOfEntries
+finalDict = dict()
+#get sorted list of latestdates here
+#for caseheader_id in sorted list of latestdates:
+#    for key in listOfEntries['36046'][caseheader_id]:
+#        finalDict.update(
+#                {key : listOfEntries['36046'][caseheader_id][key]}
+#        )
+#result is our unique list of entrytexts 
+#(still need to handle (i) other data from entry table & (ii) missing entrynumber situation)
+
+

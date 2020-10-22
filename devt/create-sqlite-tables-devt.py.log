@@ -1,0 +1,29 @@
+create-sqlite-tables-devt.py[setupLogging/28][INFO] at 2019-02-05 16:34:39,950:
+	Starting create-sqlite-tables-devt.py.py.
+
+
+create-sqlite-tables-devt.py[dropTables/46][INFO] at 2019-02-05 16:34:51,380:
+	Existing tables DROPped if they existed.
+
+create-sqlite-tables-devt.py[createWlfilename/107][INFO] at 2019-02-05 16:34:51,429:
+	Verifying that len(batch.keys())=360: 360.
+	CREATEd TABLE wlfilename.
+
+create-sqlite-tables-devt.py[createFullcase/119][INFO] at 2019-02-05 16:34:51,431:
+	CREATEd TABLE fullcase.
+
+create-sqlite-tables-devt.py[createCaseheader/149][INFO] at 2019-02-05 16:34:51,432:
+	CREATEd TABLE caseheader.
+
+create-sqlite-tables-devt.py[createEntry/178][INFO] at 2019-02-05 16:34:51,434:
+	CREATEd TABLE entry.
+
+create-sqlite-tables-devt.py[createParty/204][INFO] at 2019-02-05 16:34:51,435:
+	CREATEd TABLE party.
+
+create-sqlite-tables-devt.py[createAttorneyTEMP/240][INFO] at 2019-02-05 16:34:51,436:
+	CREATEd TABLE party.
+
+create-sqlite-tables-devt.py[<module>/292][INFO] at 2019-02-05 16:34:51,437:
+	Finished.
+

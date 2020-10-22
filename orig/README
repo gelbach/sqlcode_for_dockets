@@ -1,0 +1,17 @@
+
+GENESIS OF DATA IN /data2/dockets/sqlite/pydockets.db 
+
+1. Tables in db were created using /data2/dockets/sqlite/code/make-sqlite-tables.py
+
+2. Workhorse file is /data2/dockets/sqlite/code/read-into-sqlite-tables.py, which does this:
+
+    a. Parses each XML file in /data2/dockets/*xml 
+    b. Processes to extract key info for each docket
+    c. Inserts into /data2/dockets/sqlite/pydockets.db 
+    
+    NB: I used /data2/dockets/utilities/docketsFileReader_new.py to do
+    	this, b/c that file allows processing without writing csv.
+
+3. Additional column added to wlfilename table and then populated by
+   /data2/dockets/sqlite/code/make-additional-wlfilename-columns.py.
+

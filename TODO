@@ -1,0 +1,2 @@
+* Need to add index on caseheader.fullcase_id
+* Need to fix fullcase_text in caseheader and fullcase; it is missing court right now (seems ok in entry table)

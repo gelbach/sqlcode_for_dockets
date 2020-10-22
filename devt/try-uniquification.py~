@@ -1,0 +1,54 @@
+
+from datetime import datetime as dt
+import os
+import traceback
+import re
+import csv
+from lxml import etree as ET
+import sqlite3
+
+import sys
+sys.path.append('/data2/dockets/utilities')
+
+import logging
+from setupLoggerAndReturn import setupLoggerAndReturn
+
+from xmlFiles import *
+from CaseLevelFunctions import *
+from GeneralFunctions import *
+from docketsFileReader_new import *
+
+import numpy as np
+import pandas as pd
+from myqueryexecuter import myQueryExecuter
+
+mylogger = setupLoggerAndReturn('try-uniquification.py.log')
+db = sqlite3.connect('/data2/dockets/sqlite/pydockets-copy2.db')
+c = db.cursor()
+mq = myQueryExecuter(c,mylogger)
+
+#get list of fullcase_id values
+qFullcase = '''
+           SELECT id FROM fullcase;
+'''
+qUniqueEntry = '''
+                  SELECT entrynumber, dateentry, entrytext, fullcase_text, 
+                         fullcase_id, caseheader_id
+                    FROM entry
+                    WHERE fullcase_id=?
+'''
+for row in c.execute(qFullcase).fetchall():
+    id = row[0]
+    seenNoCaseheaderId = set()
+    result = []
+    for fullcaseRow in c.execute(qUniqueEntry,(id,)):
+        #next block will do uniquification and save in result[] list
+        for item in fullcaseRow:
+            itemForSeenNoCaseheaderId = item[:-1]
+            if itemForSeenNoCaseheaderId not in seenNoCaseheaderId:
+                seenNoCaseheaderId.add(itemToAddToSeenNoCaseheaderId)
+                result.append(item)
+
+
+    
+
