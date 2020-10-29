@@ -1,0 +1,30 @@
+
+setupLoggerAndReturn.py[setupLoggerAndReturn/19][INFO] at 2020-10-29 14:21:08,112:
+	Starting dummy.log.
+
+
+
+read-into-sqlite-tables-v2.py[<module>/471][INFO] at 2020-10-29 14:21:08,113:
+	List of all files: ['./dummy.xml']
+
+read-into-sqlite-tables-v2.py[mainLoopFunction/319][INFO] at 2020-10-29 14:21:08,113:
+	Starting ./dummy.xml
+
+docketsFileReader_new.py[openLog/115][INFO] at 2020-10-29 14:21:08,114:
+	Starting file dummy.xml
+
+
+docketsFileReader_new.py[processDocketTree/404][INFO] at 2020-10-29 14:21:08,116:
+	There were 0 dockets that lxml could not parse.
+	Successfully processed 1 out of 1 dockets.
+	Logfile is ./logs/dummy.xml.log.
+	Done with file dummy.xml at 2020-10-29 14:21:08.116587.
+	##########
+
+
+read-into-sqlite-tables-v2.py[mainLoopFunction/330][INFO] at 2020-10-29 14:21:08,142:
+	Done with filename ./dummy.xml.
+
+read-into-sqlite-tables-v2.py[mainLoopFunction/331][INFO] at 2020-10-29 14:21:08,142:
+	Datetime at end is 2020-10-29 14:21:08.142325.
+	DONE.

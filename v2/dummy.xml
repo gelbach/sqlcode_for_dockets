@@ -1,0 +1,154 @@
+<dockets>
+<docket>
+  <case.type>CIVIL</case.type>
+  <case.number>2:06CV00206</case.number>
+  <court>UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF WEST VIRGINIA (CHARLESTON)</court>
+  <primary.title>LOGAN BANK &amp; TRUST COMPANY v. BROCK ET AL</primary.title>
+  <docket.block>
+    <label>Case:</label>
+    <docket.number>2:06-CV-00206</docket.number>
+  </docket.block>
+  <panel.block>
+    <label>Judge:</label>
+    <judge>JUDGE JOSEPH R. GOODWIN</judge>
+  </panel.block>
+  <filing.date.block>
+    <label>Date Filed:</label>
+    <filing.date>20060320</filing.date>
+  </filing.date.block>
+  <closed.date.block>
+    <label>Date Closed/Teminated:</label>
+    <closed.date>20070322</closed.date>
+  </closed.date.block>
+  <lead.docket.block>
+    <label>Lead Docket:</label>
+      <lead.docket.number>1:21-MC-00100</lead.docket.number>
+  </lead.docket.block>
+  <other.dockets.block>
+    <label>Other Dockets:</label>
+    <other.dockets>LOGAN COUNTY CIRCUIT, 06-C-5-P, 06-C-43-O</other.dockets>
+    <other.dockets>THIS IS A TEST</other.dockets>
+    <anon>First</anon>
+    <anon>Q</anon>
+  </other.dockets.block>
+  <case.status.block>
+    <label>Case Status:</label>
+    <case.status.flag>CLOSED</case.status.flag>
+  </case.status.block>
+  <summary>
+    <case.number.block>
+      <label>Case Number:</label>
+      <case.number>2:06CV00206</case.number>
+    </case.number.block>
+    <jury.demand.block>
+      <label>Jury Demand:</label>
+      <jury.demand>NONE</jury.demand>
+    </jury.demand.block>
+    <nature.of.suit.block>
+      <label>Nature of Suit:</label>
+      <nature.of.suit>REAL PROPERTY:  FORECLOSURE  (220)</nature.of.suit>
+      <nature.of.suit.code>220</nature.of.suit.code>
+    </nature.of.suit.block>
+    <key.nature.of.suit.block><knos.level1.block><label>Key Nature of Suit:</label><knos.level1>FORECLOSURE</knos.level1></knos.level1.block><knos.code>210</knos.code></key.nature.of.suit.block>
+    <jurisdiction.block>
+      <label>Jurisdiction:</label>
+      <jurisdiction>FEDERAL QUESTION</jurisdiction>
+    </jurisdiction.block>
+    <cause.block>
+      <label>Cause:</label>
+      <cause>28 USC 1444 PETITION FOR REMOVAL- FORECLOSURE</cause>
+    </cause.block>
+  </summary>
+  <party.block><plaintiff.party><party.type>Plaintiff</party.type><party.name.block><label>Plaintiff:</label><party.name>LOGAN BANK &amp; TRUST COMPANY A WEST VIRGINIA BANKING CORPORATION</party.name></party.name.block><party.attorney.block><label>Attorney(s):</label><attorney.name>CHARLES T. BAILEY</attorney.name><attorney.terminated.block><label>Attorney Terminated:</label><attorney.terminated>05/22/2006</attorney.terminated></attorney.terminated.block><firm.name.block><label>Firm Name:</label><firm.name>BAILEY STULTZ OLDAKER &amp; GREENE</firm.name></firm.name.block><firm.address.block><label>Attorney Address:</label><street>P. O. BOX 1717</street><city>LOGAN</city><state>WV</state><zip>25601-1717</zip></firm.address.block><firm.phone.block><label>Attorney Phone:</label><firm.phone>304-752-4121</firm.phone></firm.phone.block><firm.fax.block><label>Attorney Fax:</label><firm.fax>752-4121</firm.fax></firm.fax.block></party.attorney.block><party.attorney.block><label>Attorney(s):</label><attorney.name>JOHN W. BENNETT</attorney.name><attorney.email>JWBENNETT75@VERIZON.NET</attorney.email><firm.name.block><label>Firm Name:</label><firm.name>EILAND &amp; BENNETT</firm.name></firm.name.block><firm.address.block><label>Attorney Address:</label><street>P. O. BOX 899</street><city>LOGAN</city><state>WV</state><zip>25601</zip></firm.address.block><firm.phone.block><label>Attorney Phone:</label><firm.phone>304-752-2275</firm.phone></firm.phone.block><firm.fax.block><label>Attorney Fax:</label><firm.fax>304-752-2281</firm.fax></firm.fax.block></party.attorney.block></plaintiff.party><defendant.party><party.type>Defendant</party.type><party.name.block><label>Defendant:</label><party.name>JACK L. BROCK</party.name></party.name.block><party.attorney.block><label>Attorney(s):</label><attorney.name>JACK L. BROCK</attorney.name><attorney.status>PRO SE</attorney.status><firm.address.block><label>Attorney Address:</label><street>P. O. BOX 462</street><city>AMHERSTDALE</city><state>WV</state><zip>25607</zip></firm.address.block><firm.phone.block><label>Attorney Phone:</label><firm.phone>304-583-7270</firm.phone></firm.phone.block><firm.fax.block><label>Attorney Fax:</label><firm.fax>583-7270</firm.fax></firm.fax.block></party.attorney.block></defendant.party><defendant.party><party.type>Defendant</party.type><party.name.block><label>Defendant:</label><party.name>MICHAEL BROCK</party.name></party.name.block><party.attorney.block><label>Attorney(s):</label><attorney.name>MICHAEL BROCK</attorney.name><attorney.status>PRO SE</attorney.status><firm.address.block><label>Attorney Address:</label><street>P. O. BOX 462</street><city>AMHERSTDALE</city><state>WV</state><zip>25607</zip></firm.address.block></party.attorney.block></defendant.party><defendant.party><party.type>Defendant</party.type><party.name.block><label>Defendant:</label><party.name>JACK BROCK, JR. AND</party.name></party.name.block><party.attorney.block><label>Attorney(s):</label><attorney.name>JACK BROCK, JR.</attorney.name><attorney.status>PRO SE</attorney.status><firm.address.block><label>Attorney Address:</label><street>P. O. BOX 462</street><city>AMHERSTDALE</city><state>WV</state><zip>25607</zip></firm.address.block></party.attorney.block></defendant.party><defendant.party><party.type>Defendant</party.type><party.name.block><label>Defendant:</label><party.name>TISH COPLEY</party.name></party.name.block><party.attorney.block><label>Attorney(s):</label><attorney.name>TISH COPLEY</attorney.name><attorney.status>PRO SE</attorney.status><firm.address.block><label>Attorney Address:</label><street>P. O. BOX 462</street><city>AMHERSTDALE</city><state>WV</state><zip>25607</zip></firm.address.block></party.attorney.block></defendant.party></party.block>
+  <docket.entries.block>
+    <label>Entry #:</label>
+    <label>Date:</label>
+    <label>Description:</label>
+    <docket.entry>
+      <number.block>
+        <number>11</number>
+      </number.block>
+      <date>03/22/2007</date>
+      <docket.description>JUDGMENT ORDER IN ACCORDANCE WITH THE COURT'S |linksToEntryNumber| 10  ORDER ENTERED OF EVEN DATE, DIRECTING THAT JUDGMENT BE ENTERED IN FAVOR OF THE PLAINTIFF, AND THAT THIS CASE BE DISMISSED AND STRICKEN FROM THE DOCKET. SIGNED BY JUDGE JOSEPH R. GOODWIN ON 3/22/2007. (CC: ATTYS; ANY UNREPRESENTED PARTY) (MKW)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>10</number>
+      </number.block>
+      <date>03/22/2007</date>
+      <docket.description>ORDER ACCEPTING AND INCORPORATING MAG. JUDGE STANLEY'S |linksToEntryNumber| 8 PROPOSED FINDINGS AND RECOMMENDATION AND |linksToEntryNumber| 9 AMENDED PROPOSED FINDINGS AND RECOMMENDATION; GRANTING PLAINTIFF'S |linksToEntryNumber| 3 MOTION TO DISMISS AND DENYING AS MOOT PLAINTIFF'S |linksToEntryNumber| 3  MOTION TO REMAND. SIGNED BY JUDGE JOSEPH R. GOODWIN ON 3/22/2007. (CC: ATTYS; ANY UNREPRESENTED PARTY) (MKW)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>9</number>
+      </number.block>
+      <date>02/22/2007</date>
+      <docket.description>AMENDED PROPOSED FINDINGS AND RECOMMENDATION SUBMITTED TO CORRECT A TYPOGRAPHICAL ERROR STATING THE DATE &quot;FEBRUARY 21, 2006&quot; RATHER THAN 2007 THAT THE DOCUMENT WAS ENTERED BY THE UNDERSIGNED UNITED STATES MAGISTRATE JUDGE; (RECOMMENDING THAT THE PRESIDING DISTRICT JUDGE GRANT LOGAN BANK &amp; TRUST COMPANY'S |linksToEntryNumber| 3 MOTION TO DISMISS AND DENY AS MOOT ITS |linksToEntryNumber| 3  MOTION TO REMAND). THIS CASE NO LONGER REFERRED TO MAGISTRATE JUDGE MARY E. STANLEY. OBJECTIONS TO PROPOSED F&amp;R DUE BY 3/9/2007. SIGNED BY MAGISTRATE JUDGE MARY E. STANLEY ON 2/22/2007. (CC: ATTYS) (TAQ)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>8</number>
+      </number.block>
+      <date>02/21/2007</date>
+      <docket.description>PROPOSED FINDINGS AND RECOMMENDATION (RECOMMENDING THAT THE PRESIDING DISTRICT JUDGE GRANT LOGAN BANK &amp; TRUST COMPANY'S |linksToEntryNumber| 3 MOTION TO DISMISS AND DENY AS MOOT ITS |linksToEntryNumber| 3  MOTION TO REMAND). THIS CASE NO LONGER REFERRED TO MAGISTRATE JUDGE MARY E. STANLEY. OBJECTIONS TO PROPOSED F&amp;R DUE BY 3/9/2007 SIGNED BY MAGISTRATE JUDGE MARY E. STANLEY ON 2/21/2007. (CC: PLTFS; ATTYS) (TAQ)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>7</number>
+      </number.block>
+      <date>08/08/2006</date>
+      <docket.description>ORDER CANCELLING THE STATUS CONFERENCE SCHEDULED FOR 08/09/06 AT 11:00 A.M. PENDING NOTIFICATION BY THE PLAINTIFFS OF THE NEED FOR FURTHER PROCEEDINGS IN THIS MATTER; DIRECTING JACK L. BROCK TO ADVISE THE UNDERSIGNED'S STAFF OF THE STATUS OF DISCUSSIONS WITH LOGAN BANK &amp; TRUST COMPANY BY 5:00 P.M. ON 8/17/06. SIGNED BY MAGISTRATE JUDGE MARY E. STANLEY ON 8/8/2006. (CC: JACK L. BROCK, ATTYS) (MKW) MODIFIED ON 8/10/2006 (HOWIE, SUSAN).</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>6</number>
+      </number.block>
+      <date>07/31/2006</date>
+      <docket.description>ORDER THE STATUS CONFERENCE IS CONTINUED UNTIL 8/9/2006 AT 11:00 AM, IN CHARLESTON, BEFORE MAGISTRATE JUDGE MARY E. STANLEY; DIRECTING THE BROCKS AND COUNSEL OF RECORD TO APPEAR IN PERSON AND TO BRING ANY DOCUMENTATION IN THEIR POSSESSION THAT IS RELATED TO THIS MATTER; SHOULD THE BROCKS RETAIN COUNSEL TO REPRESENT THEM PRIOR TO THE CONFERENCE, COUNSEL IS DIRECTED TO FILE A NOTICE OF APPEARANCE. SIGNED BY MAGISTRATE JUDGE MARY E. STANLEY ON 7/31/2006. (CC: JACK L. BROCK; ATTYS) (TAQ)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>5</number>
+      </number.block>
+      <date>07/19/2006</date>
+      <docket.description>ORDER STATUS CONFERENCE SET FOR 8/3/2006 10:30 AM BEFORE MAGISTRATE JUDGE MARY E. STANLEY; THE BROCKS AND COUNSEL TO APPEAR IN PERSON AND BRING ANY DOCUMENTATION IN THEIR POSSESSION RELATED TO THIS MATTER; SHOULD THE BROCKS RETAIN COUNSEL, COUNSEL SHOULD FILE A NOTICE OF APPEARANCE. SIGNED BY MAGISTRATE JUDGE MARY E. STANLEY ON 7/19/2006. (CC: JACK L. BROCK; ATTYS) (TMR) MODIFIED ON 7/21/2006 (HOWIE, SUSAN).</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <date>05/22/2006</date>
+      <docket.description>MOTION REFERRED TO MAGISTRATE JUDGE MARY E STANLEY: |linksToEntryNumber| 3 MOTION BY LOGAN BANK &amp; TRUST COMPANY TO REMAND CASE TO CIRCUIT COURT OF LOGAN COUNTY AND |linksToEntryNumber| 3  MOTION BY LOGAN BANK &amp; TRUST COMPANY TO DISMISS. (TLD) (ENTERED: 02/21/2007)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>4</number>
+      </number.block>
+      <date>05/22/2006</date>
+      <docket.description>SUGGESTION OF DEATH UPON THE RECORD AS TO CHARLES T. BAILEY BY LOGAN BANK &amp; TRUST COMPANY. (TAQ) (ENTERED: 05/23/2006)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>3</number>
+      </number.block>
+      <date>05/22/2006</date>
+      <docket.description>MOTION BY LOGAN BANK &amp; TRUST COMPANY TO REMAND CASE TO THE CIRCUIT COURT OF LOGAN COUNTY, WEST VIRGINIA, AND/OR TO DISMISS, WITH EXHIBITS A, B AND C ATTACHED. (TAQ) (ENTERED: 05/23/2006)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>2</number>
+      </number.block>
+      <date>03/24/2006</date>
+      <docket.description>STANDING ORDER IN RE: ASSIGNMENT AND REFERRAL OF CIVIL ACTIONS AND MATTERS TO MAGISTRATE JUDGES ENTERED JULY 21, 2004. THIS CASE IS REFERRED TO MAGISTRATE JUDGE MARY E. STANLEY FOR FINDINGS OF FACT AND RECOMMENDATIONS FOR DISPOSITION. (CC: ATTYS; ANY UNREPRESENTED PARTY) (TAQ)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <date>03/20/2006</date>
+      <docket.description>CASE ASSIGNED TO JUDGE JOSEPH R. GOODWIN. (RAS) (ENTERED: 03/27/2006)</docket.description>
+    </docket.entry>
+    <docket.entry>
+      <number.block>
+        <number>1</number>
+      </number.block>
+      <date>03/20/2006</date>
+      <docket.description>NOTICE OF REMOVAL BY JACK L. BROCK, MICHAEL BROCK, JACK BROCK, JR., TISH COPLEY WITH SUMMONS, PETITION AND MISCELLANEOUS DOCUMENTS FROM CIRCUIT COURT OF LOGAN COUNTY. (ATTACHMENTS: # |linksToAttachmentNumber| 1 EXHIBIT(S); AND # |linksToEntryNumber| 2  CIVIL COVER SHEET) (TAQ) (ENTERED: 03/24/2006)</docket.description>
+    </docket.entry>
+  </docket.entries.block>
+</docket>
+</dockets>
